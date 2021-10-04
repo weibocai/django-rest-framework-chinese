@@ -109,7 +109,7 @@ Django REST framework 是一个强大且灵活的工具包，用于构建 Web AP
         path('api-auth/', include('rest_framework.urls', namespace='rest_framework'))
     ]
 
-您现在可以在浏览器中打开该 ``API`` ，网址为  `http://127.0.0.1:8000/ <http://127.0.0.1:8000/>`_ ，并查看您的新“用户” ``API`` 。如果您使用右上角的登录控件，您还可以在系统中添加、创建和删除用户。
+您现在可以在浏览器中打开该 ``API`` ，网址为  `http://127.0.0.1:8000/ <http://127.0.0.1:8000/>`_ ，并查看您的新用户 ``API`` 。如果您使用右上角的登录控件，您还可以在系统中添加、创建和删除用户。
 
 快速开始
 ++++++++++++
@@ -117,11 +117,11 @@ Django REST framework 是一个强大且灵活的工具包，用于构建 Web AP
 
 发展
 ++++++++++++
-有关如何克隆存储库、运行测试套件并将更改贡献回 REST Framework 的信息，请参阅贡献指南。
+有关如何克隆存储库、运行测试套件并将更改贡献回 ``Django REST framework`` 的信息，请参阅贡献指南。
 
 支持
 ++++++++++++
-如需支持，请参阅 ``rest-framework`` 讨论组，尝试 #restframework频道irc.libera.chat，或在 `Stack Overflow <https://stackoverflow.com/>`_ 上提出问题，确保包含 ``django-rest-framework`` 标签。
+如需支持，请参阅 ``rest-framework`` 讨论组，尝试 ``#restframework`` 频道 ``irc.libera.chat`` ，或在 `Stack Overflow <https://stackoverflow.com/>`_ 上提出问题，确保包含 ``django-rest-framework`` 标签。
 
 如需优先支持，请注册专业或高级赞助计划。
 

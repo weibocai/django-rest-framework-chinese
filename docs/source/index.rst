@@ -7,5 +7,5 @@
 .. toctree::
 
    home
-   api/index
    tutorial/index
+   api/index
