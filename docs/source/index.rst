@@ -25,6 +25,6 @@ Contents
 --------
 
 .. toctree::
-   tutorial
+   /tutorial/index
    usage
    api
