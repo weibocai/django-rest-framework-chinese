@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Django-rest-framework-Chinese'
+copyright = '2021, weicai'
+author = 'weicai'
 
-release = '0.1'
-version = '0.1.0'
+release = '3.12.4'
+version = '3.12.4'
 
 # -- General configuration
 
